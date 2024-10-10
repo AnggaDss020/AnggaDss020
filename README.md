@@ -27,10 +27,10 @@
 * My Girlfriend : Idk
 
 
-# Contact Me & My bot Whatsapp
+# Contact Me & My Website
 * My WhatsApp 👤 <a href="https://wa.me/62881036193488" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 * Instagram <a href="https://www.instagram.com/anggadss020/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-* 👾My Website <a href="https://wa.me/6282244301751" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="My Website"></a>
+* 👾My Website <a href="https://wa.me/6282244301751" target="_blank"><img src="https://img.shields.io/badge/Website-25D366?&style=flat-square&logo=Website&logoColor=white" alt="My Website"></a>
 
 
 # i have youtube too :trollface:
